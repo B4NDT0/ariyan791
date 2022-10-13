@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ariyan791
+- 👀 I’m interested in IoT and embedded systems
+- 🌱 I’m currently learning PM
+- 📫 How to reach me ariyanap79@gmail.com
